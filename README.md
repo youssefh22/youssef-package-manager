@@ -1,4 +1,4 @@
-##Steps taken to build this project:
+Steps taken to build this project:
     1. Initialize the Project
         - mkdir youssef-package-manager
         - cd youssef-package-manager
@@ -14,7 +14,7 @@
     6. Link the package globally
         - sudo npm link
     
-##Example usage:
+Example usage:
     1. Add command
         - ypm add is-thirteen@1.0.0
     2. Install command
